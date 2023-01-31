@@ -8,7 +8,7 @@ This is the project from the Svelte crash course on https://www.youtube.com/@Tra
 npm install
 
 # Dev server
-npm run dev (http://localhost:5000)
+npm run dev (http://localhost:8080)
 
 # Prod server
 npm start
